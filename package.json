@@ -1,6 +1,6 @@
 {
   "name": "@zibasec/basecamp3-token-broker",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "A tiny AWS API Gateway + Lambda microservice that allows you retrieve Basecamp 3 OAuth tokens on demand.",
   "main": "src/http/get-index/index.js",
   "scripts": {
