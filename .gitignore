@@ -1,4 +1,18 @@
 ##############
+#    MISC.   #
+##############
+# architect framework env file (has secrets)
+.arc-env
+sam.json
+sam.yaml
+
+# macOS crap
+.DS_STORE
+
+# vscode
+.vscode
+
+##############
 # JAVASCRIPT #
 ##############
 

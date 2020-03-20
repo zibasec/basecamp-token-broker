@@ -2,24 +2,9 @@
 
 ---
 
-## [0.10.2] 2020-02-12
-
-### Fixed
-* Thing that is fixed
-
-### Changed
-* Thing that changed
-
-### Deprecated
-* Deprecated Thing
-
-### Security
-* Vuln patched
-
-### Removed
-* Functionality removed
+## [0.0.1] 2020-03-20
 
 ### Added
-* New functionality
+* Initial Release
 
 ---

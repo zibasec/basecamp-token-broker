@@ -1,0 +1,19 @@
+{
+  "name": "get-index",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.1.1",
+    "node-fetch": "^2.6.0",
+    "puppeteer-core": "^2.1.1",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9"
+  }
+}
