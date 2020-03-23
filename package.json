@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/zibasec/basecamp-token-broker#readme",
   "devDependencies": {
-    "@architect/architect": "^6.2.5-RC.0",
+    "@architect/architect": "^6.2.5",
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.1.0",
     "depcheck": "^0.9.2",
